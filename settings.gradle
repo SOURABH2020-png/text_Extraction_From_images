@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "demoUi"
+rootProject.name = "google-Play-Services-Test"
 include ':app'

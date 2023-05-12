@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">demoUi</string>
-    <string name="recognition_error_message">Successfully</string>
+    <string name="app_name">google-Play-Services-Test</string>
+    <string name="text_recognition">text_recognition</string>
 </resources>
